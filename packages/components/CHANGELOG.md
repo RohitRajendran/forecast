@@ -1,5 +1,14 @@
 # @trueplan/forecast-components
 
+## 5.0.1
+
+### Patch Changes
+
+- [#138](https://github.com/trueplan/forecast/pull/138) [`3ece536`](https://github.com/trueplan/forecast/commit/3ece536a7b51d9ca71d63ba6934ea0aace2230f8) Thanks [@richbachman](https://github.com/richbachman)! - [Avatar]: added storybook doc page comments.
+  [Badge]: added storybook doc page comments.
+  [Button]: added storybook doc page comments.
+  [Card]: added storybook doc page comments.
+
 ## 5.0.0
 
 ### Major Changes
